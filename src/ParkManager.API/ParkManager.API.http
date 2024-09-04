@@ -1,0 +1,6 @@
+@ParkManager.API_HostAddress = http://localhost:5122
+
+GET {{ParkManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
